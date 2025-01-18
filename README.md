@@ -2,7 +2,7 @@
 
 Experience a creative login page brought to life with animated gears, pulleys, and interactive elements. This project blends functionality with visually captivating animations for a dynamic and engaging user interface.
 
-![image alt](https://github.com/kumaryash-24/Login_Page_Animation/blob/a6be7f3af0566a3861f7f681fe525f25bddfcd0e/Screenshot.png)
+![image alt](https://github.com/kumaryash-24/Login_Page_Animation/blob/32357ef536af690cfacc8ef597e2bde7a17e7fb7/Screenshot.png)
 
 
 ## 🌟 Key Features:
