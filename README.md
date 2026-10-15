@@ -19,3 +19,6 @@ Experience a creative login page brought to life with animated gears, pulleys, a
 1. Clone the repository:
    ```bash
    git clone https://github.com/kumaryash-24/Login_Page_Animation.git
+
+
+Last updated: 2026-10-15
